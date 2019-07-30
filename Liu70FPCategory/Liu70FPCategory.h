@@ -6,7 +6,7 @@
 //
 //  【 FP = Functional Programming = 函数式编程 = 链式编程 】
 //   旨在降低编程中的精神污染(╯‵□′)╯︵┻━┻，使代码流畅易敲易读O(∩_∩)O ~
-//   比如：self.goodsCountLabel = [[UILabel alloc] init].fontFast([UIFont systemFontOfSize:15]).colorFast([UIColor whiteColor]).textFast(@"WOW");
+//   比如：self.goodsCountLabel = [[UILabel alloc] init].fontFast([UIFont systemFontOfSize:15]).colorFast([UIColor whiteColor]).textFast(@"WOW") ;
 //   具体都有哪些，请翻阅Liu70FPCategory组内各个Category.h文件
 //
 
